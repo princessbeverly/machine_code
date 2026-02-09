@@ -1,0 +1,3 @@
+
+int a, b, c; int result;
+a += 10;

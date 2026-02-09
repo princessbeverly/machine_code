@@ -1,0 +1,6 @@
+LD R1, a(R0)
+DADDIU R2, R0, #10
+DADDU R3, R1, R2
+
+SD R3, a(R0)
+
